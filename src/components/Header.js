@@ -1,6 +1,6 @@
 import React from 'react';
 import Socials from './Socials';
-import Logo from '../img/header/joelLogo.PNG';
+import Logo from '../img/header/LogoSellect.png';
 import MobileNav from './MobileNav';
 
 import { Link } from 'react-router-dom';
